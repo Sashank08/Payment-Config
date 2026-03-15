@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/auth-service/auth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/wallet-service/wallet-service/pom.xml" />
+        <option value="$PROJECT_DIR$/payment-service/payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/service-discovery/service-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/notification-service/notification-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+</project>
